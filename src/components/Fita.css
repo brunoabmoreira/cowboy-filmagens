@@ -1,0 +1,8 @@
+#menu {
+    width: 60%;
+    min-width: 500px;
+    height: 85px;
+    background-image: url('../imagens/filmelinha.png');
+    background-size: 30vh;
+    margin: auto;
+  }
